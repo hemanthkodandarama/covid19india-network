@@ -2,8 +2,6 @@ import Head from 'next/head'
 import NoSSR from 'react-no-ssr'
 
 import Dashboard from '../components/Dashboard'
-import NetworkMap from '../components/NetworkMap'
-import SidePanel from '../components/SidePanel'
 
 const Home = () => (
   <div className="container">
